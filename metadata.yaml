@@ -1,0 +1,30 @@
+_repo: Chinese-pottery-and-porcelain-vol-II-An-account-of-the-potter-s-art-in-China-from-primitive-t__68762
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobson, R. L. (Robert Lockhart)
+    alias: Hobson, Robert Lockhart
+    birthdate: 1872
+    deathdate: 1941
+    gutenberg_agent_id: '54556'
+    url: http://www.gutenberg.org/2009/agents/54556
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Lockhart_Hobson
+description: ''
+gutenberg_issued: '2022-08-16'
+identifiers:
+  gutenberg: '68762'
+language: en
+pgterms:marc905: 20070224170451hobson
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Chris Curnow, Joseph Cooper, Karin Spence and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: United Kingdom :Cassell and Company, Ltd.,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Chinese pottery and porcelain; vol. II.: An account of the potter''s art in
+  China from primitive times to the present day.'
+url: http://www.gutenberg.org/ebooks/68762
